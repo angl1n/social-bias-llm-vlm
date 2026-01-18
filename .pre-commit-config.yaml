@@ -1,0 +1,8 @@
+repos:
+  - repo: local
+    hooks:
+      - id: sort-readme-tables
+        name: Sort README markdown tables by Date
+        entry: python3 scripts/sort_md_tables_by_date.py README.md
+        language: system
+        pass_filenames: false
