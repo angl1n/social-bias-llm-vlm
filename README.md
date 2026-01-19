@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Social Bias in LLMs and VLMs</h1>
-  <img alt="papers" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fangl1n%2Fsocial-bias-llm-vlm%2Fmain%2Fbadges%2Fpapers.json&v=1" />
+  <img alt="papers" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fangl1n%2Fsocial-bias-llm-vlm%2Fmain%2Fbadges%2Fpapers.json" />
 </div>
 This curated list brings together key methods, datasets, and benchmarks related to social bias in LLMs and VLMs.
 
