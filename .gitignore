@@ -1,0 +1,10 @@
+.DS_Store
+rules.md
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Editor
+.vscode/

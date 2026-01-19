@@ -1,8 +1,7 @@
 <div align="center">
     <h1>Social Bias in LLMs and VLMs</h1>
 </div>
-
-
+![papers](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/angl1n/social-bias-llm-and-vlm/main/badges/papers.json)
 This curated list brings together key methods, datasets, and benchmarks related to social bias in LLMs and VLMs.
 
 As multimodal models continue to advance, understanding, evaluating, and mitigating social bias has become an increasingly important research direction. This repository is intended as a practical index for researchers and engineers to quickly track relevant work and recent progress.
