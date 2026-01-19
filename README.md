@@ -47,7 +47,7 @@ Contributions are welcome—feel free to open a Pull Request to add high-quality
 | [![Publish](https://img.shields.io/badge/Conference-CL'24-blue)]()<br/>[Bias and Fairness in Large Language Models: A Survey](https://arxiv.org/pdf/2309.00770) | <img width="700" alt="image" src="figures/BiasAndFairnessInLargeLanguageModels_ASurvey.png">| 2024-09 | [Github](https://github.com/i-gallegos/Fair-LLM-Benchmark) |
 | [![Publish](https://img.shields.io/badge/Journal-ACM%20SIGKDD%20Explorations'24-blue)]()<br/>[Fairness in Large Language Models: A Taxonomic Survey](https://arxiv.org/pdf/2404.01349) | <img width="700" alt="image" src="figures/FairnessInLargeLanguageModels_ATaxonomicSurvey.png">| 2024-07 | - |
 | [![Publish](https://img.shields.io/badge/Conference-ACL'22-blue)]()<br/>[An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models](https://arxiv.org/pdf/2110.08527) | -| 2022-05 | [Github](https://github.com/McGill-NLP/bias-bench) |
-### VLMs Surveys
+### VLM Surveys
 | Title | Introduction | Date | Code |
 | :--- | :---: | :---: | :---: |
 | [![Publish](https://img.shields.io/badge/Journal-ACM%20Computing%20Surveys'25-blue)]()<br/>[Fairness in Deep Learning: A Survey on Vision and Language Research](https://doi.org/10.1145/3637549) | <img width="700" alt="image" src="figures/FairnessInDeepLearning_Survey.png">| 2025-02 | - |
