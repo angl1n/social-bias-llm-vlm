@@ -89,6 +89,7 @@ Contributions are welcome—feel free to open a Pull Request to add high-quality
 ## Mitigation
 | Title | Introduction | Date | Code |
 | :--- | :---: | :---: | :---: |
+| [Observations and Remedies for Large Language Model Bias in Self-Consuming Performative Loop](https://arxiv.org/pdf/2601.05184) | <img width="700" alt="image" src="figures/SelfConsumingPerformativeLoop_LLM_Bias.png">| 2026-01 | - |
 | [![Publish](https://img.shields.io/badge/Conference-Findings%20of%20EMNLP'25-blue)]()<br/>[Open-DeBias: Toward Mitigating Open-Set Bias in Language Models](https://aclanthology.org/2025.findings-emnlp.1364.pdf) | <img width="700" alt="image" src="figures/OpenDeBias_OpenSetBias.png">| 2025-11 | [Resource](https://sites.google.com/view/open-debias25s)|
 | [Debiasing Reward Models by Representation Learning with Guarantees](https://arxiv.org/pdf/2510.23751) | <img width="700" alt="image" src="figures/DebiasingRewardModels_RepresentationLearning_Guarantees.png">| 2025-10 | - |
 | [![Publish](https://img.shields.io/badge/Workshop-NeurIPS'25-blue)]()<br/>[Robustly Improving LLM Fairness in Realistic Settings via Interpretability](https://openreview.net/pdf?id=fHBb8BisyW) | <img width="700" alt="image" src="figures/RobustlyImprovingLLMFairness_Interpretability.png">| 2025-09 | [Github](https://github.com/adamkarvonen/llm_bias) |
@@ -100,12 +101,11 @@ Contributions are welcome—feel free to open a Pull Request to add high-quality
 | [![Publish](https://img.shields.io/badge/Conference-NeurIPS'20-blue)]()<br/>[Fairness without Demographics through Adversarially Reweighted Learning](https://arxiv.org/pdf/2006.13114) | <img width="700" alt="image" src="figures/FairnessWithoutDemographics_ARL.png">| 2020-11 | - |
 
 
-
-
 ## Findings
 | Title | Introduction | Date | Code |
 | :--- | :---: | :---: | :---: |
 | [![Publish](https://img.shields.io/badge/Conference-EMNLP'24-blue)]()<br/>[Systematic Biases in LLM Simulations of Debates](https://arxiv.org/pdf/2402.04049) | <img width="700" alt="image" src="figures/Systematic_Biases_in_LLM_Simulations_of_Debates.png">| 2024-12 | - |
+| [![Publish](https://img.shields.io/badge/Conference-ICML'23-blue)]()<br/>[Data Feedback Loops: Model-driven Amplification of Dataset Biases](https://proceedings.mlr.press/v202/taori23a/taori23a.pdf) | <img width="700" alt="image" src="figures/DataFeedbackLoops.png">| 2023-07 | [Github](https://github.com/rtaori/data_feedback) |
 | [![Publish](https://img.shields.io/badge/Conference-ACL'22-blue)]()<br/>[Upstream Mitigation Is Not All You Need: Testing the Bias Transfer Hypothesis in Pre-Trained Language Models](https://aclanthology.org/2022.acl-long.247.pdf) | <img width="700" alt="image" src="figures/UpstreamMitigation_BiasTransferHypothesis.png">| 2022-05 | Adapted code:<br/>[HurtfulWords](https://github.com/MLforHealth/HurtfulWords) <br/> [sent_debias](https://github.com/pliang279/sent_debias) <br/>[biosbias](https://github.com/microsoft/biosbias) <br/> [unintended-ml-bias-analysis](https://github.com/conversationai/unintended-ml-bias-analysis) <br/> [roberta-base](https://huggingface.co/roberta-base) |
 | [![Publish](https://img.shields.io/badge/Conference-EACL'21-blue)]()<br/>[Challenges in Automated Debiasing for Toxic Language Detection](https://aclanthology.org/2021.eacl-main.274.pdf) | <img width="700" alt="image" src="figures/ChallengesInAutomatedDebiasingForToxicLanguageDetection.png">| 2021-04 | [Github](https://github.com/XuhuiZhou/Toxic_Debias) |
 
@@ -116,8 +116,6 @@ Contributions are welcome—feel free to open a Pull Request to add high-quality
 
 
 
-
----
 ---
 
 <details>
