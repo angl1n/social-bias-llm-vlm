@@ -79,6 +79,7 @@ Contributions are welcome—feel free to open a Pull Request to add high-quality
 ### VLMs
 | Title | Introduction | Date | Code |
 | :--- | :---: | :---: | :---: |
+| [BBQ-V: Benchmarking Visual Stereotype Bias in Large Multimodal Models](https://arxiv.org/pdf/2502.08779v3.pdf) | <img width="700" alt="image" src="figures/BBQ_V_BenchmarkingVisualStereotypeBias.png">| 2026-01 | [Github](https://github.com/UCF-CRCV/BBQ-Vision) |
 | [![Publish](https://img.shields.io/badge/Conference-EMNLP'25-blue)]()<br/>[VISBIAS: Measuring Explicit and Implicit Social Biases in Vision Language Models](https://arxiv.org/pdf/2503.07575) | <img width="700" alt="image" src="figures/VisBias.png">| 2025-11 | [Github](https://github.com/uscnlp-lime/VisBias) |
 | <br/>[VIGNETTE: Socially Grounded Bias Evaluation for Vision-Language Models](https://arxiv.org/pdf/2505.22897) | <img width="700" alt="image" src="figures/VIGNETTE.png">| 2025-05 | [Github](https://github.com/chahatraj/Vignette) |
 | [![Publish](https://img.shields.io/badge/Conference-EMNLP'24-blue)]()<br/>[ModSCAN: Measuring Stereotypical Bias in Large Vision-Language Models  from Vision and Language Modalities](https://arxiv.org/pdf/2410.06967) | <img width="700" alt="image" src="figures/ModSCAN.png">| 2024-11 | [Github](https://github.com/TrustAIRLab/ModSCAN) |
