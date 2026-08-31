@@ -95,6 +95,7 @@ Contributions are welcome—feel free to open a Pull Request to add high-quality
 ## Mitigation
 | Title | Introduction | Date | Code |
 | :--- | :---: | :---: | :---: |
+| [![Publish](https://img.shields.io/badge/Conference-EMNLP'26-blue)]()<br/>[GGSS: Geodesic-Gated Spherical Steering for Inference-Time Debiasing of Generative Vision-Language Models](https://arxiv.org/pdf/2608.25375) | <img width="700" alt="image" src="figures/GGSS_GeodesicGatedSphericalSteering.png">| 2026-08 | [Github](https://github.com/dukesun99/GGSS) |
 | [Observations and Remedies for Large Language Model Bias in Self-Consuming Performative Loop](https://arxiv.org/pdf/2601.05184) | <img width="700" alt="image" src="figures/SelfConsumingPerformativeLoop_LLM_Bias.png">| 2026-01 | - |
 | [![Publish](https://img.shields.io/badge/Conference-Findings%20of%20EMNLP'25-blue)]()<br/>[Open-DeBias: Toward Mitigating Open-Set Bias in Language Models](https://aclanthology.org/2025.findings-emnlp.1364.pdf) | <img width="700" alt="image" src="figures/OpenDeBias_OpenSetBias.png">| 2025-11 | [Resource](https://sites.google.com/view/open-debias25s)|
 | [Debiasing Reward Models by Representation Learning with Guarantees](https://arxiv.org/pdf/2510.23751) | <img width="700" alt="image" src="figures/DebiasingRewardModels_RepresentationLearning_Guarantees.png">| 2025-10 | - |
